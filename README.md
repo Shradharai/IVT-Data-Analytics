@@ -74,5 +74,23 @@ This project investigates how certain traffic patterns in mobile app advertising
 2. Open `ivt_analysis.ipynb` (Python/Jupyter Notebook) and run all cells.
 3. Review the generated plots and review the attached report (`IVT_Traffic_Report.pdf`).
 
-**Directory layout:**
+
+---
+
+## 📋 Recommendations
+
+- Proactive monitoring of `idfa_ua_ratio`, `unique_uas`, and `requests_per_idfa` is essential for any live ad platform.
+- Use valid-app feature benchmarks to set dynamic thresholds, and trigger reviews on outlier detection.
+- Integrate time series and scatterplot dashboards into analyst toolkits for rapid fraud response.
+
+---
+
+## 📬 Contact & License
+
+This project was conducted as part of an internship analytics evaluation.  
+For permissions or collaboration, contact: [your email]
+
+---
+
+*If you found this analysis insightful, please ⭐ star or fork the repository for future reference!*
 
