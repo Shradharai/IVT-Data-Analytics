@@ -1,8 +1,8 @@
 # IVT (Invalid Traffic) Analytics – Internship Project
 
-**Author:** [Your Name]  
-**Date:** [Submission Date]  
-**Assignment:** Data Analytics Task – Hunt Digital Media
+**Author:** [Shradha]  
+
+
 
 ---
 
